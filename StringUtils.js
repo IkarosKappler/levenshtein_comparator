@@ -116,6 +116,8 @@ StringUtils.stringSimilarity = function( strA, strB ) {
 
 
 // DON'T IGNORE THE COPYRIGHT HERE!
+// Found at
+//   http://andrew.hedges.name/experiments/levenshtein/
 /*
 Copyright (c) 2006. All Rights reserved.
 
